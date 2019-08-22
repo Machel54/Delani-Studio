@@ -13,5 +13,13 @@
 .Welcome p{
   font-size: 20px;
 }
-
+.About{
+  text-align: center;
+}
+.About h1{
+  font-size: 40px;
+}
+.About p{
+  font-size: 20px;
+}
 
