@@ -1,6 +1,5 @@
 .Welcome{
   background-image: url("/assets/backgrounds/h_img.jpg");
-  background-size: cover;
   text-align: center;
   color: blanchedalmond;
 
@@ -38,5 +37,13 @@
 .what{
   text-align: center;
 }
+.Contact{
+  text-align: center;
+  color: blanchedalmond;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
+}
 
