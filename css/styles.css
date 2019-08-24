@@ -1,3 +1,10 @@
+body{
+  font-family: 'Medula One', cursive;
+}
+p{
+font-size; 20px;
+}
+
 .Welcome{
   background-image: url("/assets/backgrounds/h_img.jpg");
   text-align: center;
@@ -5,19 +12,19 @@
 
 }
 .Welcome h1{
-  font-size: 50px;
+  font-size: 70px;
 }
 .Welcome p{
-  font-size: 20px;
+  font-size: 40px;
 }
 .About{
   text-align: center;
 }
 .About h2{
-  font-size: 40px;
+  font-size: 50px;
 }
 .About p{
-  font-size: 20px;
+  font-size: 30px;
 }
 .Services{
   background-image: url("/assets/backgrounds/s_image.jpg");
@@ -29,13 +36,17 @@
   justify-content: center;
 }
 .Services h2{
-  font-size: 40px;
+  font-size: 50px;
 }
 .Services p{
-  font-size: 20px;
+  font-size: 30px;
 }
-.what{
+.What h2{
   text-align: center; 
+  font-size: 50px;
+}
+.What p{
+  font-size: 30px;
 }
 .Portfolio{
   text-align: center;
@@ -48,6 +59,10 @@
   text-align: center;
   color: blanchedalmond;
   width: 180vh;
+
+}
+.Contact h2{
+    font-size: 50px;
 }
 .Contact form {
   margin: 0 auto;
@@ -62,24 +77,28 @@
   margin-top: 3px;
   font-size: 0.9em;
   color:blanchedalmond;
+  font-size: 30px;
 }
 .Contact #name{
   float: left;
   background: none;
   color: blanchedalmond; 
+  font-size: 30px;
 }
   
 .Contact #email{
   float: right;
   background: none;
   color: blanchedalmond;
+  font-size: 30px;
 }
 ::placeholder { 
   color: blanchedalmond;
 }
 
-.end  {
+.end h2{
   text-align: center;
+  font-size: 50px;
 }
 #design1 {
   display: none;
@@ -180,6 +199,3 @@
   text-align: center;
  }
  
- .pot:hover .image {
-  opacity: 0.3;
-}
