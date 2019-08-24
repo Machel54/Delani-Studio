@@ -35,15 +35,54 @@
   font-size: 20px;
 }
 .what{
+  text-align: center; 
+}
+.Portfolio{
   text-align: center;
 }
 .Contact{
+  background-image: url("/assets/backgrounds/c_image.jpg");
   text-align: center;
   color: blanchedalmond;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-
+  width: 180vh;
 }
-
+.Contact form {
+  margin: 0 auto;
+  width: 459px;
+}
+.Contact textarea {
+  width: 439px;
+  height: 300px;
+  background: none;
+  border: 1px solid blanchedalmond;
+  padding: 10px;
+  margin-top: 3px;
+  font-size: 0.9em;
+  color:blanchedalmond;
+}
+.Contact #name{
+  float: left;
+  background: none;
+  color: blanchedalmond; 
+}
+  
+.Contact #email  {
+  float: right;
+  background: none;
+  color: blanchedalmond;
+}
+::placeholder { 
+  color: blanchedalmond;
+}
+.end  {
+  text-align: center;
+}
+#design1 {
+  display: none;
+}
+#development1{
+  display: none;
+}
+#product1 {
+  display: none;
+}
