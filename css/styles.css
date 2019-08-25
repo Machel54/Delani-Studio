@@ -2,7 +2,7 @@ body{
   font-family: 'Medula One', cursive;
 }
 p{
-font-size; 20px;
+font-size: 20px;
 }
 .Welcome{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
@@ -51,7 +51,7 @@ font-size; 20px;
   text-align: center;
 }
 .mk2{
-  text-align: center
+  text-align: center;
 }
 .Contact{
   background-image: url("/assets/backgrounds/c_image.jpg");
