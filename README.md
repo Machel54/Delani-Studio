@@ -33,5 +33,6 @@ The site was created using HTML, CSS and Javascript as the primary languages on 
 
 ### Live Site
  To view this site access 
+ https://machel54.github.io/Delani-Studio/
 ### License
 The MIT licence Copyright (c)2019
