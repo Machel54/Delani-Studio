@@ -197,4 +197,13 @@ font-size: 20px;
   position: absolute;
   text-align: center;
  }
- 
+.img{
+   justify-content: space-between;
+   margin-bottom: 10px;
+ }
+.row{
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  
+}
